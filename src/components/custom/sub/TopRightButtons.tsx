@@ -157,7 +157,7 @@ const TopRightButtons: React.FC<Props> = (props) => {
             </DropdownMenuContent>
           </DropdownMenu>
 
-          <Button variant="ghost" size="icon" title="Source code" onClick={() => window.open(`https://github.com/p32929/p32929.github.io/`, "_blank")}>
+          <Button variant="ghost" size="icon" title="Source code" onClick={() => window.open(`https://github.com/priyayadav13/portfolio/`, "_blank")}>
             <Github className="h-4 w-4" />
           </Button>
 
